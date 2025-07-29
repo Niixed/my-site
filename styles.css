@@ -38,8 +38,7 @@ h3{
     --bs-nav-link-color: white !important;
     --bs-nav-link-hover-color: gray !important;
     --bs-nav-link-disabled-color: white !important;
-    display: flex
-;
+    display: flex;
     flex-wrap: wrap;
     padding-left: 0;
     margin-bottom: 0;
